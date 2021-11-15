@@ -220,7 +220,7 @@ void computercorner2(char board[3][3])
 	}
 	
 	printBoard(board);
-	printf("The random number is %d\n", rd);
+	//printf("The random number is %d\n", rd);
 }
 
 void intelligentcomputer(int count, char board[3][3])
